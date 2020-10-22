@@ -1,0 +1,31 @@
+_repo: The-Snow-Baby-A-true-story-with-true-pictures_63491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peary, Josephine Diebitsch
+    aliases:
+    - Diebitsch, Josephine Cecilia
+    - Diebitsch-Peary, Josephine
+    birthdate: 1863
+    deathdate: 1955
+    gutenberg_agent_id: '50491'
+    url: http://www.gutenberg.org/2009/agents/50491
+    wikipedia: https://en.wikipedia.org/wiki/Josephine_Diebitsch_Peary
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63491'
+  lccn: 01025821
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eskimos -- Juvenile literature'
+- !lcc 'G'
+- !lcsh 'Arctic regions -- Juvenile literature'
+- !lcsh 'Peary, Marie Ahnighito, 1893-1978'
+- GITenberg
+title: 'The Snow Baby: A true story with true pictures'
+url: http://www.gutenberg.org/ebooks/63491
